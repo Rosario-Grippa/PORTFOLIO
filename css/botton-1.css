@@ -1,0 +1,33 @@
+/* screen - botton-1 */
+
+.botton-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 42.07px;
+  overflow: hidden;
+  padding: 0.0px 0;
+  width: 328px;
+}
+
+.botton-1 .overlap-group {
+  align-items: flex-start;
+  background-color: var(--black);
+  border-radius: 3.57px;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  margin-top: 2.13px;
+  min-width: 327px;
+  padding: 9.3px 140.4px;
+}
+
+.botton-1 .place {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: 17.1px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 20px;
+  white-space: nowrap;
+}

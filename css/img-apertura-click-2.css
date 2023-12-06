@@ -1,0 +1,58 @@
+/* screen - img-apertura-click-2 */
+
+.img-apertura-click-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+#overlay-img-apertura-click-2 {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+}
+
+.img-apertura-click-2 .rectangle-4422 {
+  height: 234px;
+  position: relative;
+  width: 328px;
+}
+
+.img-apertura-click-2 .img_20230727_190704_839 {
+  height: 160px;
+  left: calc(50.00% - 80px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 77px);
+  width: 160px;
+}
+
+.img-apertura-click-2 .icon-nav-arrow-right {
+  cursor: pointer;
+  height: 17.52%;
+  left: 81.40%;
+  position: absolute;
+  top: 42.31%;
+  width: 7.16%;
+}
+
+.img-apertura-click-2 .x {
+  cursor: pointer;
+  left: 288px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.img-apertura-click-2 .logo-design {
+  left: calc(50.00% - 80px);
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}

@@ -1,0 +1,58 @@
+/* screen - img-apertura-click-5 */
+
+.img-apertura-click-5 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+#overlay-img-apertura-click-5 {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+}
+
+.img-apertura-click-5 .rectangle-4422 {
+  height: 234px;
+  position: relative;
+  width: 328px;
+}
+
+.img-apertura-click-5 .icon-nav-arrow-right {
+  cursor: pointer;
+  height: 17.52%;
+  left: 81.40%;
+  position: absolute;
+  top: 42.31%;
+  width: 7.16%;
+}
+
+.img-apertura-click-5 .x {
+  cursor: pointer;
+  left: 288px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.img-apertura-click-5 .img_20230502_103855_093 {
+  height: 159px;
+  left: calc(50.00% - 79px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 80px);
+  width: 159px;
+}
+
+.img-apertura-click-5 .logo-design {
+  left: calc(50.00% - 79px);
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}

@@ -1,0 +1,2148 @@
+/* screen - portfolio-web-page-desktop-all-breakpoints */
+
+.portfolio-web-page-desktop-all-breakpoints {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 4890px;
+  max-width: 1440px;
+  min-width: 1440px;
+  position: relative;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .portfolio-1 {
+  background-color: var(--white);
+  height: 4890px;
+  position: relative;
+  width: 1440px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .flex-col-1 {
+  min-height: 4890px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .navbar {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 10px 10px;
+  position: relative;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .heider-1 {
+  height: 80px;
+  position: relative;
+  width: 1440px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .navbar-link-rg {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: 26px;
+  font-weight: 800;
+  left: 160px;
+  top: 23px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .cv-heider-botton-menu {
+  cursor: pointer;
+  display: flex;
+  height: 23px;
+  left: calc(50.00% - 236px);
+  position: absolute;
+  top: 27px;
+  width: 27px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .cv {
+  height: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+  width: 27px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .navbar-link-about-me {
+  cursor: pointer;
+  left: calc(50.00% - 100px);
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 27px;
+  white-space: nowrap;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .navbar-link-services {
+  left: calc(50.00% + 102px);
+  top: 27px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .navbar-link-portfolio {
+  left: calc(50.00% + 295px);
+  top: 27px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .navbar-link-place {
+  left: calc(50.00% + 489px);
+  top: 27px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .sezione-home-1 {
+  background-image: url(../img/sezione-home--1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 944px;
+  position: relative;
+  width: 1440px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .social-icon-2 {
+  height: 35px;
+  left: 159px;
+  position: absolute;
+  top: 619px;
+  width: 79px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .overlap-group4-1 {
+  height: 897px;
+  left: 159px;
+  position: absolute;
+  top: 48px;
+  width: 1176px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .overlap-group-4 {
+  height: 314px;
+  left: 0;
+  position: absolute;
+  top: 207px;
+  width: 666px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .tagline-group-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 234.2px;
+  height: 314px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 315px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .hello-im-1 {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: 34.5px;
+  font-weight: 700;
+  height: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+  width: 168px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .based-in-potenza-1 {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: 34.5px;
+  font-weight: 700;
+  height: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .component-animate-intro-2 {
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 154px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .componate-name {
+  display: flex;
+  margin-top: -114px;
+  width: 651px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .surname-1 {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: 97.2px;
+  font-weight: 800;
+  height: 114px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+  width: 651px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .component-animate-intro-3 {
+  overflow: hidden;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .grapich-design-ux-ui-1 {
+  color: var(--bunker);
+  font-family: var(--font-family-roboto);
+  font-size: 97.2px;
+  font-weight: 800;
+  height: 126px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 666px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .image-3 {
+  height: 897px;
+  left: 300px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 876px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .sezione-about-me-1 {
+  align-items: flex-start;
+  background-color: #0a1415;
+  display: flex;
+  gap: 77px;
+  height: 736px;
+  min-width: 1440px;
+  padding: 80px 160px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .flex-col-2 {
+  align-self: center;
+  gap: 55px;
+  margin-bottom: 17.0px;
+  min-height: 529px;
+  width: 586px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .about-me-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1px;
+  min-height: 42px;
+  white-space: nowrap;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .flex-container-1881309 {
+  gap: 30px;
+  height: 432px;
+  width: 586px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .text-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .component-container {
+  gap: 46px;
+  min-height: 563px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .component-ux-ui-design-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 101px;
+  width: 457px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .x-design-1 {
+  min-height: 42px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .overlap-group-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  min-width: 457px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .rectangle-4419-1 {
+  background-color: var(--acapulco);
+  height: 48px;
+  width: 369px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .component-1 {
+  gap: 16px;
+  min-height: 108px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .rectangle-4421-1 {
+  background-color: var(--acapulco);
+  height: 51px;
+  width: 290px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .rectangle-4423-1 {
+  background-color: var(--acapulco);
+  height: 51px;
+  width: 381px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .rectangle-4425-1 {
+  background-color: var(--acapulco);
+  height: 51px;
+  width: 419px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .sezione-services-1 {
+  align-items: center;
+  background-image: url(../img/sezione-services-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 570px;
+  justify-content: flex-end;
+  min-width: 1440px;
+  padding: 71px 154px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 31px;
+  margin-bottom: 10.0px;
+  min-height: 300px;
+  width: 266px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .card-ux-ui-container-1 {
+  height: 135px;
+  position: relative;
+  width: 266px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .card-ux-ui-3 {
+  background-color: var(--white);
+  flex-direction: column;
+  gap: 20.2px;
+  height: 134px;
+  left: 0;
+  top: 1px;
+  width: 266px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .rectangle-4427-1 {
+  background-color: var(--black);
+  height: 42.81px;
+  width: 266.19px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .user-centered-design-1 {
+  align-self: center;
+  height: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 0.8px;
+  text-align: center;
+  width: 167px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .card-ux-ui-4 {
+  height: 135px;
+  left: 1px;
+  top: 0;
+  width: 265px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .frame-28048-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 9px;
+  height: 26px;
+  margin-left: 50px;
+  margin-top: 10.4px;
+  min-width: 165.57px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .x-design-2 {
+  min-height: 26px;
+  min-width: 142px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .group-4 {
+  align-self: center;
+  height: 20px;
+  margin-top: 0.02px;
+  width: 16px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .card-graphic-design-container {
+  height: 134px;
+  position: relative;
+  width: 266px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .card-2 {
+  background-color: var(--white);
+  flex-direction: column;
+  gap: 21.4px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .creativity-that-capt-1 {
+  align-self: center;
+  height: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 0.8px;
+  text-align: center;
+  width: 201px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .frame-28045-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: 26px;
+  margin-left: 30px;
+  margin-top: 8.1px;
+  min-width: 206.32px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .graphic-design-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 26px;
+  min-width: 180px;
+  white-space: nowrap;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .group-5 {
+  align-self: center;
+  height: 17px;
+  margin-bottom: 0.46px;
+  width: 17px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .overlap-group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 31px;
+  margin-bottom: 9.0px;
+  margin-left: 18px;
+  min-height: 299px;
+  width: 267px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .card-web-design-container-1 {
+  height: 134px;
+  position: relative;
+  width: 267px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .card-web-design-3 {
+  background-color: var(--white);
+  flex-direction: column;
+  gap: 22.2px;
+  left: 1px;
+  width: 266px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .aesthetically-appeal-1 {
+  align-self: center;
+  height: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -0.8px;
+  text-align: center;
+  width: 185px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .card-web-design-4 {
+  left: 0;
+  width: 267px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .frame-28047-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: 26px;
+  margin-left: 54px;
+  margin-top: 8.4px;
+  min-width: 158.76px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .web-design-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 26px;
+  min-width: 131px;
+  white-space: nowrap;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .group-6 {
+  align-self: center;
+  height: 16px;
+  margin-top: 0.01px;
+  width: 19px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .card-logo-design-container {
+  height: 134px;
+  margin-left: 0.81px;
+  position: relative;
+  width: 266px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .distinctive-logos-th-1 {
+  align-self: center;
+  height: 44px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -0.8px;
+  text-align: center;
+  width: 221px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .frame-28046-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: 26px;
+  margin-left: 50px;
+  margin-top: 8.1px;
+  min-width: 165.76px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .group-7 {
+  align-self: center;
+  height: 15px;
+  margin-bottom: 1.68px;
+  width: 14px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .flex-col-3 {
+  align-self: flex-start;
+  gap: 19px;
+  margin-left: 112px;
+  min-height: 388px;
+  width: 463px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .services-1 {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 38px;
+  white-space: nowrap;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .flex-container-1881317 {
+  gap: 40px;
+  height: 331px;
+  width: 463px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .sezione-portfolio-1 {
+  align-items: flex-end;
+  background-color: var(--bunker);
+  display: flex;
+  flex-direction: column;
+  gap: 54px;
+  min-height: 1514px;
+  padding: 64px 159px;
+  width: 1440px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .portfolio-container {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  min-height: 166px;
+  width: 1120px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .portfolio-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 42px;
+  min-width: 192px;
+  white-space: nowrap;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .explore-my-portfolio-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 99px;
+  text-align: center;
+  width: 1120px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 15px;
+  min-width: 1121px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 17px;
+  height: 1148px;
+  min-width: 742px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .image-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  min-height: 1148px;
+  width: 362px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .image-1 {
+  display: flex;
+  width: 362px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .image-2 {
+  cursor: pointer;
+  height: 428px;
+  width: 362px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .image-4 {
+  cursor: pointer;
+  height: 706px;
+  width: 362px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .image-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  min-height: 1148px;
+  width: 363px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .image-wireframe-ux {
+  display: flex;
+  margin-left: 1px;
+  width: 362px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .image-5 {
+  cursor: pointer;
+  height: 800px;
+  width: 362px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .image-6 {
+  cursor: pointer;
+  height: 334px;
+  width: 362px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .design-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  min-height: 1148px;
+  width: 364px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .image-logo-design {
+  background-image: url(../img/image-2@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 248px;
+  width: 362px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .image-portfolio-logodesign {
+  display: flex;
+  margin-left: 2px;
+  width: 362px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .image-7 {
+  cursor: pointer;
+  height: 344px;
+  width: 362px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .image-8 {
+  cursor: pointer;
+  height: 524px;
+  width: 362px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .sezione-contact-1 {
+  align-items: flex-end;
+  background-color: var(--acapulco);
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+  min-height: 736px;
+  padding: 90px 128px;
+  width: 1440px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .flex-row-2 {
+  align-items: flex-end;
+  display: flex;
+  gap: 172px;
+  min-width: 1152px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .flex-col-4 {
+  gap: 48px;
+  margin-bottom: 1px;
+  min-height: 400px;
+  width: 464px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .place-2 {
+  min-height: 42px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .flex-container-1931431 {
+  gap: 40px;
+  height: 310px;
+  width: 464px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .text-field-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 440px;
+  padding: 17px 20px;
+  width: 516px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .input-name-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  height: 105px;
+  margin-top: 5px;
+  padding: 0 3px;
+  width: 466px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .your-name-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 4px;
+  margin-top: 3px;
+  min-height: 28px;
+  white-space: nowrap;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .x-container-1 {
+  align-self: flex-end;
+  height: 56px;
+  position: relative;
+  width: 456px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .input-1 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 456px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .name-1 {
+  background-color: transparent;
+  border: 0;
+  height: 19px;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .name-1::placeholder {
+  color: #aaaaaa99;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .input-email-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  height: 116px;
+  margin-top: 43px;
+  padding: 7px 3px;
+  width: 466px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .email-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 4px;
+  min-height: 28px;
+  white-space: nowrap;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .email-3 {
+  background-color: transparent;
+  border: 0;
+  height: 19px;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+  width: 47px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .email-3::placeholder {
+  color: #aaaaaa99;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .message-container-1 {
+  align-self: center;
+  height: 105px;
+  margin-right: 3.0px;
+  margin-top: 32px;
+  position: relative;
+  width: 459px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .input-message-2 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 49px;
+  width: 456px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .message-2 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .input-message-3 {
+  display: flex;
+  height: 105px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 458px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .message-3 {
+  background-color: transparent;
+  border: 0;
+  height: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 15px;
+  margin-top: 68px;
+  padding: 0;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .message-3::placeholder {
+  color: #aaaaaa99;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .primary-button {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 59px;
+  margin-right: 30px;
+  width: 460px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .overlap-group-5 {
+  align-items: flex-start;
+  background-color: var(--bunker);
+  border-radius: 5px;
+  display: flex;
+  height: 56px;
+  margin-left: 1px;
+  min-width: 459px;
+  padding: 13px 199px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .place-3 {
+  min-height: 28px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .footer-2 {
+  align-items: center;
+  background-color: var(--bunker);
+  display: flex;
+  height: 310px;
+  justify-content: center;
+  width: 1440px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .footer-3 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  margin-top: -21px;
+  min-height: 94px;
+  width: 788px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 238px;
+  margin-top: -1px;
+  min-width: 788px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .rg-2 {
+  color: var(--white);
+  cursor: pointer;
+  font-family: var(--font-family-roboto);
+  font-size: 26px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 30px;
+  min-width: 35px;
+  white-space: nowrap;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .flexcontainer-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 238px;
+  min-width: 515px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .flex-container-35961 {
+  gap: 26px;
+  height: 94px;
+  width: 109px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .flex-container-35962 {
+  gap: 26px;
+  height: 94px;
+  width: 168px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .social-icon-3 {
+  height: 19px;
+  margin-right: 125px;
+  width: 42px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .card {
+  display: flex;
+  height: 134px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 266px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .card-ux-ui {
+  display: flex;
+  position: absolute;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .card-web-design {
+  display: flex;
+  height: 134px;
+  position: absolute;
+  top: 0;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .component {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  width: 457px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .component-animate-intro {
+  display: flex;
+  height: 114px;
+  width: 666px;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .flex-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .navbar-link {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .place {
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.portfolio-web-page-desktop-all-breakpoints .x-design {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+/* screen - portfolio-web-page-mobile */
+
+.portfolio-web-page-mobile {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.portfolio-web-page-mobile .android-large-1 {
+  background-color: var(--white);
+  height: 4925px;
+  overflow: hidden;
+  position: relative;
+  width: 360px;
+}
+
+.portfolio-web-page-mobile .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: -4px;
+  min-height: 4925px;
+  position: relative;
+  width: 371px;
+}
+
+.portfolio-web-page-mobile .heider {
+  display: flex;
+  margin-left: 4px;
+  width: 360px;
+}
+
+.portfolio-web-page-mobile .nav-bar {
+  align-items: flex-start;
+  display: flex;
+  min-width: 362px;
+}
+
+.portfolio-web-page-mobile .overlap-group-1 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 281px;
+  height: 48px;
+  min-width: 360px;
+  padding: 13px 19px;
+}
+
+.portfolio-web-page-mobile .icon-menu {
+  cursor: pointer;
+  height: 13px;
+  margin-top: 2.0px;
+  width: 16px;
+}
+
+.portfolio-web-page-mobile .rg {
+  align-self: flex-end;
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  white-space: nowrap;
+  width: 23px;
+}
+
+.portfolio-web-page-mobile .sezione-home {
+  align-items: flex-end;
+  background-image: url(../img/sezione-home-@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 245px;
+  margin-left: 4px;
+  min-width: 360px;
+  padding: 39.9px 16px;
+}
+
+.portfolio-web-page-mobile .overlap-group5 {
+  height: 161px;
+  position: relative;
+  width: 217px;
+}
+
+.portfolio-web-page-mobile .social-icon {
+  height: 17px;
+  left: 0;
+  position: absolute;
+  top: 144px;
+  width: 44px;
+}
+
+.portfolio-web-page-mobile .tagline-group {
+  display: flex;
+  flex-direction: column;
+  gap: 97.3px;
+  height: 160px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 160px;
+}
+
+.portfolio-web-page-mobile .hello-im {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  height: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -5px;
+  white-space: nowrap;
+  width: 78px;
+}
+
+.portfolio-web-page-mobile .based-in-potenza {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  height: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+  width: 146px;
+}
+
+.portfolio-web-page-mobile .component-animate-intro {
+  display: flex;
+  flex-direction: column;
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 62px;
+  width: 217px;
+}
+
+.portfolio-web-page-mobile .component-name {
+  display: flex;
+  height: 37.14px;
+  margin-top: -37.1px;
+  width: 212.11px;
+}
+
+.portfolio-web-page-mobile .surname {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: 31.7px;
+  font-weight: 800;
+  height: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 0;
+  white-space: nowrap;
+  width: 213px;
+}
+
+.portfolio-web-page-mobile .component-animate-intro-1 {
+  display: flex;
+  height: 37.14px;
+  overflow: hidden;
+  width: 217px;
+}
+
+.portfolio-web-page-mobile .grapich-design-ux-ui {
+  color: var(--bunker);
+  font-family: var(--font-family-roboto);
+  font-size: 31.7px;
+  font-weight: 800;
+  height: 41.05px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 217px;
+}
+
+.portfolio-web-page-mobile .overlap-group6 {
+  height: 4348px;
+  position: relative;
+  width: 371px;
+}
+
+.portfolio-web-page-mobile .overlap-group3 {
+  height: 800px;
+  left: 0;
+  position: absolute;
+  top: 3548px;
+  width: 371px;
+}
+
+.portfolio-web-page-mobile .sezione-contact {
+  background-color: var(--acapulco);
+  display: flex;
+  flex-direction: column;
+  gap: 626px;
+  height: 800px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.portfolio-web-page-mobile .place {
+  height: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 17px;
+  margin-top: 45px;
+  white-space: nowrap;
+  width: 91px;
+}
+
+.portfolio-web-page-mobile .botton {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 42.07px;
+  margin-left: 17px;
+  overflow: hidden;
+  padding: 0.0px 0;
+  width: 328px;
+}
+
+.portfolio-web-page-mobile .overlap-group-2 {
+  align-items: flex-start;
+  background-color: var(--bunker);
+  border-radius: 3.57px;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  min-width: 327px;
+  padding: 9.3px 140.4px;
+}
+
+.portfolio-web-page-mobile .place-1 {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: 17.1px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 20px;
+  white-space: nowrap;
+}
+
+.portfolio-web-page-mobile .flex-container-28233 {
+  display: flex;
+  gap: 40px;
+  height: 226px;
+  left: 21px;
+  position: absolute;
+  top: 105px;
+  width: 327px;
+}
+
+.portfolio-web-page-mobile .text {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.portfolio-web-page-mobile .text-field {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 316px;
+  left: 0;
+  padding: 12.2px 14.4px;
+  position: absolute;
+  top: 350px;
+  width: 371px;
+}
+
+.portfolio-web-page-mobile .input-name {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  height: 75px;
+  margin-top: 4px;
+  padding: 0.0px 2.2px;
+  width: 335px;
+}
+
+.portfolio-web-page-mobile .your-name {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 2.88px;
+  margin-top: 2px;
+  min-height: 20px;
+  white-space: nowrap;
+}
+
+.portfolio-web-page-mobile .x-container {
+  align-self: flex-end;
+  height: 40px;
+  position: relative;
+  width: 328px;
+}
+
+.portfolio-web-page-mobile .input {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 328px;
+}
+
+.portfolio-web-page-mobile .name {
+  background-color: transparent;
+  border: 0;
+  height: 13px;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+  width: 33px;
+}
+
+.portfolio-web-page-mobile .name::placeholder {
+  color: #aaaaaa99;
+}
+
+.portfolio-web-page-mobile .input-email {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 83px;
+  margin-top: 31px;
+  padding: 5.0px 2.2px;
+  width: 335px;
+}
+
+.portfolio-web-page-mobile .email {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 2.88px;
+  min-height: 20px;
+  white-space: nowrap;
+}
+
+.portfolio-web-page-mobile .email-1 {
+  background-color: transparent;
+  border: 0;
+  height: 13px;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.portfolio-web-page-mobile .email-1::placeholder {
+  color: #aaaaaa99;
+}
+
+.portfolio-web-page-mobile .message-container {
+  align-self: center;
+  height: 75px;
+  margin-right: 2.16px;
+  margin-top: 23px;
+  position: relative;
+  width: 330px;
+}
+
+.portfolio-web-page-mobile .input-message {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 35px;
+  width: 328px;
+}
+
+.portfolio-web-page-mobile .message {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+}
+
+.portfolio-web-page-mobile .input-message-1 {
+  display: flex;
+  height: 75px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 329px;
+}
+
+.portfolio-web-page-mobile .message-1 {
+  background-color: transparent;
+  border: 0;
+  height: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 10.8px;
+  margin-top: 48.9px;
+  padding: 0;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.portfolio-web-page-mobile .message-1::placeholder {
+  color: #aaaaaa99;
+}
+
+.portfolio-web-page-mobile .sezione-portfolio {
+  background-color: var(--bunker);
+  display: flex;
+  flex-direction: column;
+  height: 1575px;
+  left: 4px;
+  position: absolute;
+  top: 1974px;
+  width: 360px;
+}
+
+.portfolio-web-page-mobile .portfolio {
+  align-self: center;
+  height: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -217px;
+  margin-top: 34px;
+  white-space: nowrap;
+  width: 107px;
+}
+
+.portfolio-web-page-mobile .explore-my-portfolio {
+  align-self: center;
+  height: 98px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 28px;
+  width: 324px;
+}
+
+.portfolio-web-page-mobile .img {
+  background-image: url(../img/image1@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 311.6px;
+  margin-left: 16px;
+  margin-top: 31px;
+  width: 328px;
+}
+
+.portfolio-web-page-mobile .img2::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.portfolio-web-page-mobile .img2 {
+  display: flex;
+  margin-left: 16px;
+  margin-top: 26.4px;
+  overflow-x: scroll;
+  width: 328px;
+}
+
+.portfolio-web-page-mobile .group-image {
+  display: flex;
+  gap: 16px;
+  width: 328px;
+}
+
+.portfolio-web-page-mobile .image {
+  cursor: pointer;
+  height: 229px;
+  position: relative;
+  width: 246px;
+}
+
+.portfolio-web-page-mobile .group-image-1::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.portfolio-web-page-mobile .group-image-1 {
+  display: flex;
+  height: 229px;
+  margin-left: 16px;
+  margin-top: 26px;
+  overflow: hidden;
+  overflow-x: scroll;
+  width: 328px;
+}
+
+.portfolio-web-page-mobile .group-image-2 {
+  display: flex;
+  gap: 16px;
+  height: 245px;
+  width: 328px;
+}
+
+.portfolio-web-page-mobile .group-image-3::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.portfolio-web-page-mobile .group-image-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 17px;
+  height: 470px;
+  margin-left: 17px;
+  margin-top: 26px;
+  overflow: hidden;
+  overflow-x: scroll;
+  position: relative;
+  width: 327px;
+}
+
+.portfolio-web-page-mobile .image1 {
+  background-image: url(../img/image1-3@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 470px;
+  position: relative;
+  width: 244px;
+}
+
+.portfolio-web-page-mobile .image2 {
+  background-image: url(../img/image2-2@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 469.62px;
+  position: relative;
+  width: 240.8px;
+}
+
+.portfolio-web-page-mobile .overlap-group4 {
+  height: 1213px;
+  left: 3px;
+  position: absolute;
+  top: 762px;
+  width: 362px;
+}
+
+.portfolio-web-page-mobile .sezione-services {
+  background-image: url(../img/sezione-services.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 25.7px;
+  height: 1213px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 362px;
+}
+
+.portfolio-web-page-mobile .services {
+  height: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 16px;
+  margin-top: 34px;
+  white-space: nowrap;
+  width: 78px;
+}
+
+.portfolio-web-page-mobile .flex-container-270705 {
+  display: flex;
+  gap: 28.51px;
+  height: 274px;
+  margin-left: 18px;
+  position: relative;
+  width: 324px;
+}
+
+.portfolio-web-page-mobile .group-description-tab {
+  display: flex;
+  flex-direction: column;
+  gap: 40.5px;
+  height: 782px;
+  left: 16px;
+  position: absolute;
+  top: 387px;
+  width: 328px;
+}
+
+.portfolio-web-page-mobile .card-ux-ui {
+  align-items: flex-end;
+  display: flex;
+  height: 165.88px;
+  min-width: 327.01px;
+}
+
+.portfolio-web-page-mobile .card-ux-ui-container {
+  height: 166px;
+  margin-bottom: 0;
+  position: relative;
+  width: 327px;
+}
+
+.portfolio-web-page-mobile .card-ux-ui-1 {
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 24.8px;
+  height: 165px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 327px;
+}
+
+.portfolio-web-page-mobile .rectangle-4427 {
+  background-color: var(--black);
+  height: 52.6px;
+  width: 327.01px;
+}
+
+.portfolio-web-page-mobile .user-centered-design {
+  align-self: center;
+  height: 49.14px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 0.1px;
+  text-align: center;
+  width: 205.15px;
+}
+
+.portfolio-web-page-mobile .card-ux-ui-2 {
+  display: flex;
+  height: 166px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 326px;
+}
+
+.portfolio-web-page-mobile .frame-28048 {
+  margin-left: 61.4px;
+  margin-top: 12.8px;
+  width: 203.4px;
+}
+
+.portfolio-web-page-mobile .group-28056 {
+  align-items: flex-start;
+  display: flex;
+  gap: 11px;
+  height: 23.18px;
+  margin-left: 23.3px;
+  margin-top: 5.2px;
+  min-width: 158.05px;
+}
+
+.portfolio-web-page-mobile .ux-ui-design {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 23px;
+  min-width: 127px;
+  white-space: nowrap;
+}
+
+.portfolio-web-page-mobile .group {
+  height: 24px;
+  margin-top: -1.23px;
+  width: 20px;
+}
+
+.portfolio-web-page-mobile .card-graphic-design {
+  align-items: flex-end;
+  display: flex;
+  height: 164.94px;
+  min-width: 327.01px;
+}
+
+.portfolio-web-page-mobile .card {
+  height: 165px;
+  margin-bottom: -0.03px;
+  position: relative;
+  width: 327px;
+}
+
+.portfolio-web-page-mobile .card-1 {
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 26.4px;
+  height: 165px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 327px;
+}
+
+.portfolio-web-page-mobile .creativity-that-capt {
+  align-self: center;
+  height: 44.22px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -0.1px;
+  text-align: center;
+  width: 246.92px;
+}
+
+.portfolio-web-page-mobile .card-graphic-design-1 {
+  display: flex;
+  height: 165px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 327px;
+}
+
+.portfolio-web-page-mobile .frame-28045 {
+  margin-left: 36.8px;
+  margin-top: 9.9px;
+  width: 253.46px;
+}
+
+.portfolio-web-page-mobile .group-28055 {
+  align-items: center;
+  display: flex;
+  gap: 9px;
+  height: 23px;
+  margin-left: 31.2px;
+  margin-top: 4.4px;
+  min-width: 192.32px;
+}
+
+.portfolio-web-page-mobile .graphic-design {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 23px;
+  min-width: 162px;
+  white-space: nowrap;
+}
+
+.portfolio-web-page-mobile .group-1 {
+  height: 21px;
+  margin-bottom: 0.5px;
+  width: 21px;
+}
+
+.portfolio-web-page-mobile .card-web-design {
+  align-items: flex-start;
+  display: flex;
+  height: 164.65px;
+  min-width: 328px;
+}
+
+.portfolio-web-page-mobile .card-web-design-container {
+  height: 165px;
+  position: relative;
+  width: 328px;
+}
+
+.portfolio-web-page-mobile .card-web-design-1 {
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 27.2px;
+  height: 165px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 327px;
+}
+
+.portfolio-web-page-mobile .aesthetically-appeal {
+  align-self: center;
+  height: 46.68px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 0.3px;
+  text-align: center;
+  width: 227.27px;
+}
+
+.portfolio-web-page-mobile .card-web-design-2 {
+  display: flex;
+  height: 165px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 328px;
+}
+
+.portfolio-web-page-mobile .frame-28047 {
+  margin-left: 66.3px;
+  margin-top: 10.3px;
+  width: 195.04px;
+}
+
+.portfolio-web-page-mobile .group-28054 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: 23px;
+  margin-left: 22.7px;
+  margin-top: 6.0px;
+  min-width: 151.37px;
+}
+
+.portfolio-web-page-mobile .web-design {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 23px;
+  min-width: 117px;
+  white-space: nowrap;
+}
+
+.portfolio-web-page-mobile .group-2 {
+  height: 20px;
+  margin-top: -0.13px;
+  width: 23px;
+}
+
+.portfolio-web-page-mobile .card-logo-design {
+  align-items: flex-end;
+  display: flex;
+  height: 164.94px;
+  margin-left: 1.0px;
+  min-width: 327.01px;
+}
+
+.portfolio-web-page-mobile .distinctive-logos-th {
+  align-self: center;
+  height: 54.05px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 0.5px;
+  text-align: center;
+  width: 271.49px;
+}
+
+.portfolio-web-page-mobile .card-logo-design-1 {
+  display: flex;
+  height: 165px;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 327px;
+}
+
+.portfolio-web-page-mobile .frame-28046 {
+  justify-content: center;
+  margin-left: 0.4px;
+  margin-top: 9.9px;
+  width: 203.63px;
+}
+
+.portfolio-web-page-mobile .group-28053 {
+  align-items: flex-start;
+  display: flex;
+  gap: 6px;
+  height: 23px;
+  margin-left: 2.7px;
+  margin-top: 6px;
+  min-width: 152.3px;
+}
+
+.portfolio-web-page-mobile .logo-design {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 23px;
+  min-width: 127px;
+  white-space: nowrap;
+}
+
+.portfolio-web-page-mobile .group-3 {
+  height: 19px;
+  margin-top: 0.53px;
+  width: 17px;
+}
+
+.portfolio-web-page-mobile .sezione-about-me {
+  background-color: #0a1415;
+  display: flex;
+  flex-direction: column;
+  height: 763px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.portfolio-web-page-mobile .about-me {
+  height: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 18px;
+  margin-top: 30px;
+  white-space: nowrap;
+  width: 99px;
+}
+
+.portfolio-web-page-mobile .flex-container-270677 {
+  display: flex;
+  gap: 8.14px;
+  height: 228px;
+  margin-left: 18px;
+  margin-top: 26.8px;
+  position: relative;
+  width: 325px;
+}
+
+.portfolio-web-page-mobile .group-component {
+  display: flex;
+  flex-direction: column;
+  gap: 32.7px;
+  height: 400.35px;
+  margin-left: 18px;
+  margin-top: 15.2px;
+  width: 325px;
+}
+
+.portfolio-web-page-mobile .component-ux-ui-design {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  min-height: 71.83px;
+}
+
+.portfolio-web-page-mobile .x-design {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 23px;
+  white-space: nowrap;
+}
+
+.portfolio-web-page-mobile .overlap-group {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  min-width: 325px;
+}
+
+.portfolio-web-page-mobile .rectangle-4419 {
+  background-color: var(--acapulco);
+  height: 34px;
+  width: 262px;
+}
+
+.portfolio-web-page-mobile .component {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  min-height: 76.81px;
+}
+
+.portfolio-web-page-mobile .rectangle-4421 {
+  background-color: var(--acapulco);
+  height: 36px;
+  width: 206px;
+}
+
+.portfolio-web-page-mobile .rectangle-4423 {
+  background-color: var(--acapulco);
+  height: 36px;
+  width: 271px;
+}
+
+.portfolio-web-page-mobile .rectangle-4425 {
+  background-color: var(--acapulco);
+  height: 36px;
+  width: 298px;
+}
+
+.portfolio-web-page-mobile .footer {
+  align-items: center;
+  background-color: var(--bunker);
+  display: flex;
+  height: 284px;
+  justify-content: center;
+  margin-left: 4px;
+  width: 360px;
+}
+
+.portfolio-web-page-mobile .footer-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 47px;
+  height: 174px;
+  margin-left: -210px;
+  position: relative;
+  width: 116px;
+}
+
+.portfolio-web-page-mobile .rg-1 {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: 26px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-web-page-mobile .flex-container-36099 {
+  display: inline-flex;
+  gap: 26px;
+}
+
+.portfolio-web-page-mobile .group-footer {
+  display: flex;
+  flex-direction: column;
+  gap: 53.2px;
+  height: 169px;
+  left: 155px;
+  position: absolute;
+  top: 5px;
+  width: 175px;
+}
+
+.portfolio-web-page-mobile .social-icon-1 {
+  align-self: center;
+  height: 18.81px;
+  margin-left: -129px;
+  width: 42px;
+}
+
+.portfolio-web-page-mobile .flex-container-360101 {
+  display: flex;
+  gap: 26px;
+  height: 97px;
+  position: relative;
+  width: 173px;
+}
+
+.portfolio-web-page-mobile .flex-container {
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.portfolio-web-page-mobile .frame {
+  display: flex;
+  height: 31.94px;
+}
+/* screen - portfolio-web-page-tablet */
+
+.portfolio-web-page-tablet {
+  display: flex;
+  min-height: 2831px;
+  min-width: 834px;
+  width: 100%;
+}
+
+.portfolio-web-page-tablet .i-pad-pro-11-1 {
+  background-color: var(--white);
+  display: flex;
+  width: 834px;
+}
+
+.portfolio-web-page-tablet .portfolio-web-page {
+  height: 2831px;
+  position: relative;
+  width: 834px;
+}
+@media screen and (max-width: 833px) {
+  .screen.portfolio-web-page-tablet { 
+    display: none;
+   }
+  .screen.portfolio-web-page-desktop-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 834px) and (max-width: 1439px) {
+  .screen.portfolio-web-page-mobile { 
+    display: none;
+   }
+  .screen.portfolio-web-page-desktop-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1440px) {
+  .screen.portfolio-web-page-mobile { 
+    display: none;
+   }
+  .screen.portfolio-web-page-tablet { 
+    display: none;
+   }
+}

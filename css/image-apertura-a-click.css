@@ -1,0 +1,56 @@
+/* screen - image-apertura-a-click */
+
+.image-apertura-a-click {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+#overlay-image-apertura-a-click {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+}
+
+.image-apertura-a-click .rectangle-4417 {
+  height: 313px;
+  position: relative;
+  width: 328px;
+}
+
+.image-apertura-a-click .mask-group {
+  height: 214px;
+  left: 51px;
+  position: absolute;
+  top: 49px;
+  width: 225px;
+}
+
+.image-apertura-a-click .icon-nav-arrow-right {
+  cursor: pointer;
+  height: 13.10%;
+  left: 88.11%;
+  position: absolute;
+  top: 43.45%;
+  width: 7.16%;
+}
+
+.image-apertura-a-click .x {
+  left: 299px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.image-apertura-a-click .logo-design {
+  left: calc(50.00% - 113px);
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+}

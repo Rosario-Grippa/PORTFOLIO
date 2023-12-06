@@ -1,0 +1,102 @@
+:root {
+  --acapulco: #78bba7;
+  --black: #000000;
+  --bunker: #0a1515;
+  --shady-lady: #aaaaaa;
+  --white: #ffffff;
+
+  --font-size-l: 36px;
+  --font-size-m: 28px;
+  --font-size-s: 24px;
+  --font-size-xl: 97.2px;
+  --font-size-xs: 20px;
+  --font-size-xxs: 14.9px;
+  --font-size-xxxs: 12px;
+
+  --font-family-roboto: "Roboto", Helvetica;
+}
+.roboto-normal-white-12px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-semi-bold-white-28px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.roboto-medium-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.roboto-bold-white-36px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-semi-bold-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.roboto-extra-bold-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.roboto-bold-white-22-3px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: 22.3px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-semi-bold-black-14-9px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.roboto-bold-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-normal-shady-lady-16px {
+  color: var(--shady-lady);
+  font-family: var(--font-family-roboto);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+@media only screen and (max-width: 600px) {
+  .desktop-1 {
+    width: 100%;
+  }
+  /* Aggiungi qui ulteriori regole CSS per elementi specifici */
+}
