@@ -1,0 +1,269 @@
+ @media (max-width: 991px) {
+     .section-home .subtitle {
+         height: 55px !important;
+    }
+}
+ .portfolio-modal {
+     background-image: url(../img/section-home-.png);
+     background-position: 50% 50%;
+     background-size: cover;
+     padding: 10px;
+}
+ .section-services {
+     width: 100%;
+     background-image: url(../img/section-home-.png);
+     background-position: 50% 50%;
+     background-size: cover;
+     padding: var(--padding-xl);
+}
+ .section-portfolio {
+     padding: var(--padding-xl);
+     background: #0a1515;
+     color: white;
+     text-align: center;
+}
+ .section-portfolio .image-container .row {
+     margin: auto;
+     width: 1150px;
+     max-width: 100%;
+}
+ .section-portfolio .image-container .d-md-none .col {
+     overflow-x: scroll;
+}
+ .section-portfolio .image-container .d-md-none .mobile-image-group {
+     width: max-content;
+}
+ .section-portfolio .image-container .d-md-none img {
+     width: 150px;
+     padding: 9px;
+     margin-bottom: 5px;
+     margin-top: 5px;
+     border-radius: 15px;
+     cursor: pointer;
+}
+ .section-portfolio .image-container .d-md-block img {
+     width: 20vw;
+     max-width: 360px;
+     padding: 9px;
+     border-radius: 15px;
+     cursor: pointer;
+}
+ .section-portfolio .image-container img:hover {
+     box-shadow: inset 0 0 6px 7px #78bba7;
+}
+ .section-footer {
+     padding: var(--padding-xl);
+     background: #0a1515;
+     color: white;
+}
+ .section-footer .logo {
+     margin-top: 30px;
+}
+ .section-footer span {
+     display: block;
+     margin-top: 30px;
+     font-size: var(--font-size-xxxs);
+}
+ .section-footer img {
+     margin-top: 30px;
+     margin-right: 10px;
+     float: left;
+     width: 18px;
+}
+ .section-contact {
+     width: 100%;
+     background-image: url(../img/section-home-.png);
+     background-position: 50% 50%;
+     background-size: cover;
+     padding: var(--padding-xl);
+}
+ .section-home {
+     width: 100%;
+     background-image: url(../img/section-home-.png);
+     background-position: 50% 50%;
+     background-size: cover;
+     padding: var(--padding-xl);
+     padding-bottom: 0px;
+}
+ .section-home .image-3 {
+     height: 550px;
+     position: absolute;
+     bottom: 0;
+     right: 0;
+}
+ .section-home .hello-container {
+     height: 100%;
+     text-align: left;
+     padding-bottom: var(--padding-xl);
+}
+ .section-home .hello-container-sub {
+     display: inline-block;
+     text-align: left;
+}
+ .section-home .surname {
+     font-size: var(--font-size-xl);
+     font-weight: 600;
+}
+ .section-home .subtitle {
+     height: 100px;
+}
+ .section-home .subtitle h2 {
+     position: absolute;
+     color: #0a1515;
+     font-size: var(--font-size-xm);
+     font-weight: 600;
+     padding-right: 5px;
+     animation: subtitle-animation 12s infinite ease-in-out;
+     animation-delay: calc(3s * var(--i));
+     width: 0%;
+     max-width: fit-content;
+     white-space: nowrap;
+     overflow: hidden;
+     visibility: hidden;
+     z-index: 1;
+}
+ .section-home .subtitle h2::after {
+     content: "";
+     position: absolute;
+     top: 0;
+     right: 0;
+     z-index: 1;
+     background: #2b755f;
+     width: 5px;
+     height: 100%;
+     border-radius: 20px;
+}
+ @keyframes subtitle-animation {
+     0% {
+         visibility: visible;
+         width: 0%;
+    }
+     15% {
+         visibility: visible;
+         width: 100%;
+    }
+     25% {
+         visibility: hidden;
+         width: 0%;
+    }
+     100% {
+         visibility: hidden;
+         width: 0%;
+    }
+}
+ .section-home .based-in-potenza {
+     font-size: var(--font-size-l);
+     font-weight: 700;
+}
+ .section-home .hello-im {
+     font-weight: 700;
+     letter-spacing: 0;
+     font-size: var(--font-size-l);
+}
+ .section-home .social-icon {
+     height: 34px;
+     width: 93px;
+}
+ .section-about-me {
+     background-color: #0a1415;
+     color: white;
+     padding: var(--padding-xl);
+}
+ .section-about-me .container-1 {
+     padding-left: var(--padding-l);
+     padding-right: var(--padding-l);
+}
+ .container {
+     max-width: 600px;
+}
+ .section-portfolio h2, .section-contact h2, .section-services h2, .section-about-me h2 {
+     color: white;
+     font-weight: 800;
+     display: block;
+     margin-bottom: 20px;
+     font-size: var(--font-size-l) 
+}
+ .section-portfolio span, .section-about-me span, .section-contact span, .section-services span {
+     color: white;
+     margin-bottom: 10px;
+     font-size: var(--font-size-xs);
+     display: block;
+     font-weight: 600;
+}
+ .section-contact span, .section-services span, .section-about-me span:last-of-type {
+     margin-bottom: var(--mb-m);
+}
+ .section-contact .input span:first-of-type {
+     margin-top: 0px !important;
+}
+ .section-contact .input span {
+     font-size: var(--font-size-l);
+     margin-bottom: 10px !important;
+     margin-top: 30px !important;
+}
+ .section-about-me .overlap-group {
+     background-color: white;
+     height: 48px;
+     margin-bottom: 30px;
+	 border-radius: 10px;
+	 overflow: hidden;
+}
+ .section-about-me .rectangle-percentage {
+     background-color: #78bba7;
+     height: 48px;
+     border-radius: 10px;
+	 transition: width 2s;
+}
+.section-about-me .aos-init .rectangle-percentage {
+	width: 0%; 
+}
+
+.section-about-me .aos-animate .rectangle-percentage.p-uxui-design {
+	width: 80%;
+}
+.section-about-me .aos-animate .rectangle-percentage.p-web-design {
+	width: 65%;
+}
+.section-about-me .aos-animate .rectangle-percentage.p-logo-design {
+	width: 85%;
+}
+.section-about-me .aos-animate .rectangle-percentage.p-graphic-design {
+	width: 90%;
+}
+
+ .section-about-me .x-design {
+     font-size: var(--font-size-l);
+     letter-spacing: 0;
+     line-height: normal;
+     font-weight: 700;
+	 margin-bottom: 10px;
+}
+ .section-services .card {
+     border: none;
+	 border-radius: 10px;
+}
+ .section-services .card-body {
+     font-size: var(--font-size-xxs);
+     font-style: normal;
+     font-weight: 600;
+     color: black;
+	 text-align: center;
+}
+ .section-services .card-header {
+     text-align: center;
+     background: black;
+     color: white;
+     font-size: var(--font-size-s);
+     font-style: normal;
+     font-weight: 700;
+	 border-top-left-radius: 10px;
+	 border-top-right-radius: 10px;
+}
+ .section-services .card-header img {
+     width: 16px;
+}
+
+textarea {
+	min-height: 48px;
+	max-height: 96px;
+}
