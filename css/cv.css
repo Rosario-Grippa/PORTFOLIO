@@ -1,0 +1,85 @@
+ @media (max-width: 991px) {
+     .section-cv {
+         padding: 0px !important;
+         padding-top: 80px !important;
+         padding-bottom: 30px !important;
+    }
+}
+ body {
+     background-image: url(../img/section-home-.png) !important;
+     background-position: 50% 50%;
+     background-size: cover;
+     padding: 10px;
+}
+ .section-cv {
+     padding: 5%;
+     padding-top: 100px;
+}
+ .section-cv h1 {
+     font-weight: 600;
+     display: block;
+     margin-bottom: 20px;
+     font-size: var(--font-size-xm) 
+}
+ .section-cv h2 {
+     font-weight: 800;
+     display: block;
+     margin-bottom: 20px;
+     font-size: var(--font-size-m) 
+}
+ .section-cv .card-body {
+     padding-top: 0;
+     border: none;
+}
+ .cv-container {
+     background-color: #494a4c;
+     border-bottom-right-radius: 300px;
+     border-bottom-left-radius: 300px;
+     padding: 40px;
+     padding-bottom: 300px;
+     margin-bottom: 80px;
+}
+ .cv-container * {
+     font-size: var(--font-size-xs);
+     color: white;
+     font-weight: 500;
+     letter-spacing: 0;
+     line-height: normal;
+}
+ .cv-description * {
+     font-size: var(--font-size-xs);
+     color: black;
+     font-weight: 500;
+     letter-spacing: 0;
+     line-height: normal;
+}
+ .cv-description {
+     padding-right: 50px;
+}
+ .cv-container table td {
+     padding: 10px;
+}
+ .cv-container .icon {
+     width: 20px;
+}
+ .image-cv {
+     background-color: #2b3034;
+     border-radius: 50%;
+     width: 280px;
+     max-width: 100%;
+     padding: 20px;
+}
+ .section-cv li {
+     list-style-type: none;
+     margin-top: 50px;
+}
+ .section-cv li::before {
+     content: '';
+     background-color: black;
+     border-radius: 7.32px;
+     height: 15px;
+     width: 15px;
+     position: absolute;
+     left: 30px;
+     margin-top: 2px;
+}
